@@ -18,7 +18,7 @@ limitations under the License.
 const char* kCategoryLabels[kCategoryCount] = {
     "silence",
     "unknown",
-    "go",
-    "stop",
     "yes",
+    "stop",
+    "go",
 };
